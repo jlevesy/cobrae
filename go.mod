@@ -3,11 +3,9 @@ module github.com/jlevesy/cobrae
 go 1.13
 
 require (
-	github.com/containerd/containerd v1.3.0 // indirect
+	github.com/containerd/containerd v1.6.26 // indirect
 	github.com/containous/traefik/v2 v2.0.1
-	github.com/spf13/cobra v0.0.5
-	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/sys v0.0.0-20191002063906-3421d5a6bb1c // indirect
+	github.com/spf13/cobra v1.1.3
 )
 
 replace (
